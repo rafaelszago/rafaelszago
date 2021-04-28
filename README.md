@@ -6,8 +6,8 @@ I believe in asynchronous work, remote work, lean, strong cultures. I wrote my f
 
 In the last three years, I've worked with influencer marketing. And in the last year at one of the largest influencer marketing agencies in Brazil, performing daily activities such as collecting data, understanding and generating insights for brands and influencers, creating workflows and applying them to the active product.
 
-https://github-readme-stats.vercel.app/api?username=rafaelszago&hide=contribs,prs,issues
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rafaelszago&hide=contribs,prs,issues&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelszago&layout=compact
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelszago&layout=compact&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/wakatime?username=rafaelszago&layout=compact
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelszago&layout=compact&theme=tokyonight)
