@@ -10,4 +10,4 @@ In the last three years, I've worked with influencer marketing. And in the last 
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelszago&layout=compact&theme=tokyonight)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelszago&theme=tokyonight)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelszago&hide=scss,json,html,other&theme=tokyonight)
