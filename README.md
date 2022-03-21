@@ -58,5 +58,5 @@ I’m a software engineer and open-source enthusiast. I wrote my first scripts f
 
 ![raffle land preview](assets/project-raffle-land.png)
 
-![](https://img.shields.io/badge/Source_code-Project_Github?url=https://github.com/rafaelszago/raffle-contract&style=flat&logo=Github&logoColor=white&color=259AEF)
-[![Updated Badge](https://badges.pufler.dev/updated/rafaelszago/raffle-contract?color=259AEF)](https://badges.pufler.dev)
+![Project URL](https://img.shields.io/badge/Source_code-Project_Github?url=https://github.com/rafaelszago/raffle-contract&style=flat&logo=Github&logoColor=white&color=259AEF)
+![Updated Badge](https://badges.pufler.dev/updated/rafaelszago/raffle-contract?color=259AEF)
